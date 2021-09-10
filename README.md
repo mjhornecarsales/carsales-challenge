@@ -10,6 +10,8 @@ If you are an experienced Java developer who likes to work on .NET, feel free to
 
 **We are using .NET Core and Angular in our team. And we love clean code.**
 
+An Angular project template `salesperson-web` is included for you.
+
 ## Scenario
 
 All salespeople are assigned to one or more groups from the below list.
