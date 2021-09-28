@@ -1,6 +1,6 @@
 # Example API
 
-Toy example API with core and shell (infrastructure) layout.
+Toy example API with core and shell (infrastructure) layout, feel free to use the `WeatherForecastController` as an example of how you might structure your services and models.
 ## How to run
 
 1. Build
