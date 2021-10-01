@@ -21,7 +21,7 @@ namespace Example.Api
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddScoped<IWeatherForecastService, FakeWeatherForecastService>();
+            services.AddScoped<ISalesPersonService, FakeSalesPersonService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>

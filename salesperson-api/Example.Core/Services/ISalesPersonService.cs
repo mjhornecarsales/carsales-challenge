@@ -3,9 +3,9 @@ using Example.Core.Models;
 
 namespace Example.Core.Services
 {
-    public interface IWeatherForecastService
+    public interface ISalesPersonService
     {
-        IEnumerable<WeatherForecast> Get();
+        IEnumerable<SalesPerson> List();
     }
 
 }
